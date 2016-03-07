@@ -1,0 +1,13 @@
+{
+  "name": "ethicker",
+  "version": "1.0.0",
+  "description": "Ether ticker",
+  "main": "index.js",
+  "bin": "./src/ethicker.js",
+  "author": "Sebastien Castiel <sebastien@castiel.me>",
+  "license": "ISC",
+  "dependencies": {
+    "numeral": "^1.5.3",
+    "request-promise": "^2.0.1"
+  }
+}
